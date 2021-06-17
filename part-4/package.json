@@ -1,4 +1,4 @@
-{
+m{
 	"name": "part4",
 	"version": "1.0.0",
 	"description": "",
@@ -9,7 +9,7 @@
 		"test": "cross-env NODE_ENV=test jest --verbose --runInBand",
 		"start:test": "cross-env NODE_ENV=test nodemon index.js"
 	},
-	"author": "Sudeshna Sani",
+	"author": "Mounika",
 	"license": "KLU",
 	"dependencies": {
 		"bcrypt": "^5.0.1",
